@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PLASTER/PLASTERWALL005C.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_fallout/c1275_928_48"
+	}
+}

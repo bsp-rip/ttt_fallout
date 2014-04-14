@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CONCRETE/CONCRETEFLOOR033O.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_fallout/c176_-252_72"
+	}
+}

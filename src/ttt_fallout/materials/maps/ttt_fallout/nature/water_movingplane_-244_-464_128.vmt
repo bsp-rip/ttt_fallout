@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_MOVINGPLANE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_fallout/c-244_-464_128"
+		"Proxies"
+		{
+		}
+	}
+}

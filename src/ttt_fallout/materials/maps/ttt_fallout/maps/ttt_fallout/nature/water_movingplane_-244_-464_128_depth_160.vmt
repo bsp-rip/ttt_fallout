@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/ttt_fallout/nature/water_movingplane_-244_-464_128.vmt"
+	"insert"
+	{
+		"$waterdepth"		"160"
+	}
+}

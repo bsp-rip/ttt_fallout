@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/BUILDING_TEMPLATE/BUILDING_TEMPLATE003G.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_fallout/c1275_928_48"
+	}
+}

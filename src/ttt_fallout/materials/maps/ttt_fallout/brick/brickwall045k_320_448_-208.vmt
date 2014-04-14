@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/BRICK/BRICKWALL045K.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_fallout/c320_448_-208"
+	}
+}
